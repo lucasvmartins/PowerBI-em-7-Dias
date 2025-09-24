@@ -34,3 +34,11 @@ O projeto tem como finalidade praticar:
 
 ### Exemplos de dashboards 📸
 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/26421c12-09a2-49d5-984c-b3ac82e8f81d" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/89350ee6-ae96-4a84-ba73-925f4e15f488" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/aae7f029-b6be-47b8-92b3-4ec215a0705b" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/1b13419d-7c0e-4868-ac8a-c835f6163897" />
+
+### Observações 📌
+
+Este é um projeto de estudo. Os dados são utilizados apenas para fins educacionais e podem não representar informações reais.
